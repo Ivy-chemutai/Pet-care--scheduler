@@ -63,4 +63,7 @@ q. Quit                 - Exit the application
 
 ## Author,
 IVVY.
+## License MIT.
+
+HAPPY CODING!
 
