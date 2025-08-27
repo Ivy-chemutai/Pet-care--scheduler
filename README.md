@@ -60,3 +60,7 @@ q. Quit                 - Exit the application
       *helpers.py         # CLI helper functions and menu operations
  ─db/
       *models.py      # SQLAlchemy models and ORM methods
+
+## Author,
+IVVY.
+
