@@ -34,8 +34,9 @@ The application provides comprehensive pet management with statistics, reminders
      git clone <repository-url>
      cd pet-care-scheduler
 2. **Install dependencies**   
-        pipenv install
-        pipenv shell
+    pipenv install
+    pipenv shell
+   
 3.**Run**
   cd lib
   python cli.py
