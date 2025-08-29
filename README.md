@@ -54,13 +54,16 @@ q. Quit                 - Exit the application
 ## File structure
 
    pet-care-scheduler/
-─ Pipfile                 # Project dependencies and Python version
-─ README.md              # Project documentation (this file)
+─ Pipfile     # Project dependencies and Python version
+
+─ README.md    # Project documentation (this file)
+
  ─ lib/
-      *cli.py             # Main CLI interface and navigation logic
-      *helpers.py         # CLI helper functions and menu operations
+      *cli.py   # Main CLI interface and navigation logic
+      *helpers.py   # CLI helper functions and menu operations
+      
  ─db/
-      *models.py      # SQLAlchemy models and ORM methods
+      *models.p# SQLAlchemy models and ORM methods
 
 ## Author,
 IVVY.
