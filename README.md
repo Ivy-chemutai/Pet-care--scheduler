@@ -6,7 +6,7 @@ Built with SQLAlchemy ORM and designed following best practices for CLI applicat
 ## Overview
 
 Pet Care Scheduler helps pet owners organize and track their pets' care routines, including feeding, walking, grooming, veterinary visits, and medication schedules.
-The application provides comprehensive pet management with statistics, reminders, and search functionality.
+The application offers comprehensive pet management features, including statistics, reminders, and search functionality.
 
 ## Features
 
@@ -53,18 +53,20 @@ q. Quit                 - Exit the application
 
 ## File structure
 
-   pet-care-scheduler
+   pet-care-scheduler/
    
 ─ Pipfile     # Project dependencies and Python version
 
 ─ README.md    # Project documentation (this file)
 
  ─ lib/
+ 
       *cli.py   # Main CLI interface and navigation logic
       
       *helpers.py   # CLI helper functions and menu operations
       
  ─db/
+ 
       *models.p# SQLAlchemy models and ORM methods
 
 ## Author,
